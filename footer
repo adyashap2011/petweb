@@ -1466,14 +1466,14 @@ font-weight:500;
 </div>
 <div class="col-sm-3 col-xs-4 center-block">
 <img src="https://cdn.shopify.com/s/files/1/0915/3234/files/test-cup-01.jpg?7969036325225738057" class="img-responsive" alt="Petnostics Test Kit.">
-<h5 class="eztitle">Petnostics test kit.</h5>
-<p class="ezcap">Receive your Petnostics urine test cup or disease-specific test strips.</p>
+<h5 class="eztitle">Petriarchy test kit.</h5>
+<p class="ezcap">Receive your Petriarchy urine test cup or disease-specific test strips.</p>
 </div>
 <div class="col-sm-2 col-xs-4 center-block"><img src="https://cdn.shopify.com/s/files/1/0915/3234/files/petnostics-plus.jpg?7969036325225738057" class="img-responsive" alt="Plus"></div>
 <div class="col-sm-3 col-xs-4 center-block">
 <img src="https://cdn.shopify.com/s/files/1/0915/3234/files/test-cup-02.jpg?7969036325225738057" class="img-responsive" alt="Petnostics App.">
 <h5 class="eztitle">Petnostics app.</h5>
-<p class="ezcap">Download our free Petnostics app on your iOS or Android mobile device.</p>
+<p class="ezcap">Download our free Petriarchy app on your iOS or Android mobile device.</p>
 </div>
 </div>
 <!-- Row --> <br> <br>
@@ -1548,7 +1548,7 @@ font-size:13px;
 font-weight:bold;
     }
 --></style>
-<h4 class="page__subtitle">Why Petnostics?</h4>
+<h4 class="page__subtitle">Why Petriarchy?</h4>
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3 col-xs-6 blocks">
@@ -1559,7 +1559,7 @@ font-weight:bold;
 <div class="col-sm-3 col-xs-6 blocks">
 <img src="https://cdn.shopify.com/s/files/1/0915/3234/files/why-petnostics-icon-02.jpg?2035902575070114216" alt="Same strips vets use." class="img-responsive" style="max-height: 80px; margin: 0 auto;">
 <h5 class="ezztitle">Same strips vets use.</h5>
-<p class="ezzcap">Using the same diagnostic test strips that veterinarians use in their clinics, Petnostics results are reliable and easily shareable.</p>
+<p class="ezzcap">Using the same diagnostic test strips that veterinarians use in their clinics, Petriarchy results are reliable and easily shareable.</p>
 </div>
 <div class="clearfix visible-xs-block"></div>
 <div class="col-sm-3 col-xs-6 blocks">
@@ -1637,7 +1637,7 @@ font-weight:bold;
             <div class="grid__item large--one-third">
               <h5 class="uppercase" style="text-transform:uppercase;font-weight:bold;">About Petnostics</h5>
               <hr class="hr--underline">
-              <div class="rte"><p>Petnostics helps pet parents keep their pets happy and healthy through a line of at-home urine test products. Using the same diagnostic test strips that veterinarians use in their clinics and with results easily shareable, Petnostics makes healthy living easier for pet families. With Petnostics, a lifetime of love is only a scan away.</p></div>
+              <div class="rte"><p>Petriarchy helps pet parents keep their pets happy and healthy through a line of at-home urine test products. Using the same diagnostic test strips that veterinarians use in their clinics and with results easily shareable, Petriarchy makes healthy living easier for pet families. With Petriarchy, a lifetime of love is only a scan away.</p></div>
             </div>
 
           
@@ -1670,7 +1670,7 @@ font-weight:bold;
       <ul class="footer-secondary grid__item inline-list">
         
         <!-- Changed order of Copyright - MC -->
-		<li><a href="/">&copy;  2020 Petnostics, LLC</a></li>
+		<li><a href="/">&copy;  2020 Petriarchy, LLC</a></li>
        	<!--End Copyright change -->
         
         
